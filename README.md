@@ -1,4 +1,4 @@
-[![Logo](https://i.tesla.sexy/59a8c9ee55.png)](#)
+
 
 # VN-Province-Open-API.NET
 An API wrapper for Province Open API https://provinces.open-api.vn/
