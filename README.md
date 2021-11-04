@@ -33,7 +33,7 @@ To Build This Project, run:
 
 ## Credits
 
-[Newtonsoft.Json](https://www.newtonsoft.com/json)
+[Newtonsoft.Json](https://www.newtonsoft.com/json)  
 [RestSharp](https://restsharp.dev/)  
-[Tỉnh Thành Việt Nam](https://provinces.open-api.vn/)
-And big thanks to [AlphaNecron](https://github.com/AlphaNecron) for helping me fixing some errors
+[Tỉnh Thành Việt Nam](https://provinces.open-api.vn/)  
+And big thanks to [AlphaNecron](https://github.com/AlphaNecron) for helping me fixing some errors  
