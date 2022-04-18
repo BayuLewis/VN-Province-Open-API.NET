@@ -6,7 +6,7 @@ An API wrapper for Province Open API https://provinces.open-api.vn/
 
 ## Authors
 
-- [@veeeleven](https://github.com/veeeleven)
+- [@BayuLewis](https://github.com/BayuLewis)
 
   
 ## Usage/Example
